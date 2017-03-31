@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cetatea Rasnov pt Avram.CSharp.Plugins", "Cetatea Rasnov pt Avram.CSharp.Plugins.csproj", "{02BBDE02-AE85-6656-3DBA-0631D4648EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cetatea Rasnov pt Avram.CSharp", "Cetatea Rasnov pt Avram.CSharp.csproj", "{E849C25C-21C5-D219-AE4C-786C57D0B29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cetatea Rasnov pt Avram.CSharp.Editor", "Cetatea Rasnov pt Avram.CSharp.Editor.csproj", "{68711FC2-9E89-C8B0-7C54-D1B698CFC41A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02BBDE02-AE85-6656-3DBA-0631D4648EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BBDE02-AE85-6656-3DBA-0631D4648EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BBDE02-AE85-6656-3DBA-0631D4648EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BBDE02-AE85-6656-3DBA-0631D4648EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E849C25C-21C5-D219-AE4C-786C57D0B29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E849C25C-21C5-D219-AE4C-786C57D0B29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E849C25C-21C5-D219-AE4C-786C57D0B29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E849C25C-21C5-D219-AE4C-786C57D0B29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68711FC2-9E89-C8B0-7C54-D1B698CFC41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68711FC2-9E89-C8B0-7C54-D1B698CFC41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68711FC2-9E89-C8B0-7C54-D1B698CFC41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68711FC2-9E89-C8B0-7C54-D1B698CFC41A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
